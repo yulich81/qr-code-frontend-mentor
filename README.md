@@ -23,8 +23,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [click to open](https://your-solution-url.com)
-- Live view URL: [click to open](https://your-solution-url.com)
+- Solution URL: [click to open](https://github.com/yulich81/qr-code-frontend-mentor)
+- Live view URL: [click to open](https://62587def6ff44009cf3b2a3e--helpful-mooncake-f302a2.netlify.app/)
 
 ## My process
 
